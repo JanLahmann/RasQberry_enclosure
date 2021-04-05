@@ -6,7 +6,7 @@ This is a mapping of the STL files necessary for printig all parts for version 5
 
 
 
-![](images/rasqberry_explosion_drawing.png)
+![](images/STL_Filemapping_on_sheme_v5.5.png)
 
 
 
